@@ -23,16 +23,8 @@ assignees: ''
 
 ## In Class
 
-### Isolate
-
-- [ ] `exercises-name`
-- [ ] `exercises-name`
-
-### Integrate
-
-- [ ] [in-class-project]() (starter repository)
-  - [ ] [live]()
-  - [ ] [repo]()
+- [ ] Isolate: I have understood the exercises
+- [ ] Integrate: [live](), [source]()
 
 ---
 
@@ -51,7 +43,7 @@ assignees: ''
 
 ### Project
 
-`:emoji:` project name:
+project name:
 
 - [ ] [repo](https://github.com/user-name/project-name)
 - [ ] [live](https://user-name.github.io/project-name)
