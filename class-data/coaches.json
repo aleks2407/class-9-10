@@ -116,5 +116,25 @@
         "role": "homework"
       }
     ]
+  },
+  {
+    "name": "Louise Picot",
+    "userName": "louisepicot",
+    "modules": [
+      {
+        "repoName": "incremental-development",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Kevin Tassi",
+    "userName": "kevintss",
+    "modules": [
+      {
+        "repoName": "incremental-development",
+        "role": "assistant"
+      }
+    ]
   }
 ]
