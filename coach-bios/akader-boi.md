@@ -32,6 +32,6 @@
   - Memory Games 
 
   ---
-[In](https://https://www.linkedin.com/in/akader-ibrahim-akku-70469295/)    
+[In](https://www.linkedin.com/in/akader-ibrahim-akku-70469295/)    
 ---
 [twitter](https://twitter.com/AafarAkku?s=09&fbclid=IwAR2bteEBv9uapZnGS17_4YAFliPbKuOU4Y6ZcM8iHsS05i80wxjctpJNybY) 
