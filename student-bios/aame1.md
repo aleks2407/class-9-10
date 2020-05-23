@@ -28,4 +28,7 @@ Nice too meet you! :)
 Feel free to connect [here:](https://www.github.com/aame1)
 
 
+![me](https://avatars1.githubusercontent.com/u/61841073?s=460&u=49d5b17e01f7b06d881d83b0d5d6de073fc940e3&v=4)
+
+
 
