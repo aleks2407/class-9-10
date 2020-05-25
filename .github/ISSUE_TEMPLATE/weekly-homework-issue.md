@@ -42,12 +42,6 @@ assignees: ''
 
 ### Project
 
-project name:
+`project-repo-name`
 
-- [ ] [repo](https://github.com/user-name/project-name)
-- [ ] [live](https://user-name.github.io/project-name)
-- [ ] [development-strategy](https://github.com/user-name/project-name/tree/master/development-strategy.md)
-- [ ] One branch per step in my `development-strategy.md`
-- [ ] A complete README
-
-
+> paste project check-list here
