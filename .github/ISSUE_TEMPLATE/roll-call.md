@@ -9,19 +9,7 @@ assignees: ''
 
 ## Roll Call!
 
-Paste this markdown into a new comment and let us know how last week went.
+Leave us a comment with these two things:
 
-Keep it short and sweet!
-
-```
-## My week as emojis
-
-## What went well last week
-
-## What was challenging last week
-
-## What I will do differently this week
-
-## Helpful Tips
-
-```
+1. A summary of your week using only emojis
+1. Something you'd like to share, anything goes! (within respect)
