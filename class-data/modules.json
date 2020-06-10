@@ -9,14 +9,14 @@
   {
     "number": 2,
     "repoName": "incremental-development",
-    "status": "in progress",
+    "status": "done",
     "project": 2,
     "weeks": 3
   },
   {
     "number": 3,
     "repoName": "debugging",
-    "status": "to do",
+    "status": "in progress",
     "project": 3,
     "weeks": 2
   },
