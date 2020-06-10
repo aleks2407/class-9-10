@@ -136,5 +136,45 @@
         "role": "assistant"
       }
     ]
+  },
+  {
+    "name": "Dena Cho",
+    "userName": "denacho",
+    "modules": [
+      {
+        "repoName": "debugging",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Berihu Gebremedhin",
+    "userName": "Berihugebre",
+    "modules": [
+      {
+        "repoName": "debugging",
+        "role": "assistant"
+      }
+    ]
+  },
+  {
+    "name": "Maël Brunet",
+    "userName": "maeligg",
+    "modules": [
+      {
+        "repoName": "debugging",
+        "role": "lead"
+      }
+    ]
+  },
+  {
+    "name": "Unmesh Joshi",
+    "userName": "unmeshvrije",
+    "modules": [
+      {
+        "repoName": "debugging",
+        "role": "lead"
+      }
+    ]
   }
 ]
