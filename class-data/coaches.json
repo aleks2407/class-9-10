@@ -182,12 +182,22 @@
     ]
   },
   {
-    "name": "Charles",
+    "name": "Charles-Axel Pauwels",
     "userName": "cpauwels",
     "modules": [
       {
         "repoName": "testing",
         "role": "lead"
+      }
+    ]
+  },
+  {
+    "name": "Sali AlMurshidi",
+    "userName": "Sali-Almurshidi",
+    "modules": [
+      {
+        "repoName": "testing",
+        "role": "assistant"
       }
     ]
   }
