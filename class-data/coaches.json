@@ -176,5 +176,15 @@
         "role": "lead"
       }
     ]
+  },
+  {
+    "name": "Charles",
+    "userName": "cpauwels",
+    "modules": [
+      {
+        "repoName": "testing",
+        "role": "lead"
+      }
+    ]
   }
 ]
