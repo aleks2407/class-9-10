@@ -16,14 +16,14 @@
   {
     "number": 3,
     "repoName": "debugging",
-    "status": "in progress",
+    "status": "done",
     "project": 3,
     "weeks": 2
   },
   {
     "number": 4,
     "repoName": "testing",
-    "status": "to do",
+    "status": "in progress",
     "project": 4,
     "weeks": 3
   },
