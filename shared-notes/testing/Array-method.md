@@ -2,10 +2,11 @@
 
 ## 17 array methods like :pizza: :pizza: 
 
+> Try and learn what happen to your array :smile:
 
 ### Array.isArray
 
-> Try and learn what happen to your array :smile:
+
 
 ```js
 const items = [1, 2, 3,4];
