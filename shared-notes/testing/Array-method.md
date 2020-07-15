@@ -1,9 +1,11 @@
 # Array Methods
 
-## 17 helpful array methods 
+## 17 array methods like :pizza: :pizza: 
 
 
 ### Array.isArray
+
+> Try and learn what happen to your array :smile:
 
 ```js
 const items = [1, 2, 3,4];
