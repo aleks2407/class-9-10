@@ -11,6 +11,6 @@ In this folder is nothing but some nearly-empty files.  It's up to you all to fi
 1. [encapsulation](./encapsulation)
 1. [public-apis](./public-apis)
 1. [web-apps](./web-apps)
-1. [data-modeling](./data-modeling)
+1. [databases](./databases)
 1. [frontend-frameworks](./frontend-frameworks)
 1. [collaborative-development](./collaborative-development)
